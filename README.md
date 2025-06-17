@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VINEET PRABHU TALIKOTI @Vineet-8
-- 👀 I’m interested in Space, Electronics, Helping People with ASD and Learn as much as I can.
+- 👀 I’m interested in Space, Electronics, learning ASD...
 - 🌱 I’m currently doing B.Tech in ECE at PES University
-- 📫 How to reach me Gmail : vineettalikoti4@gmail.com
+- 📫 How to reach me Gmail : PES1202203826@pesu.pes.edu
 
 <!---
 Vineet-8/Vineet-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
